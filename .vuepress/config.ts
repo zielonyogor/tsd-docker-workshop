@@ -8,7 +8,7 @@ import { navbar, sidebar } from './navigation'
 
 export default {
   lang: 'en-EN',
-  title: 'Docker - workshops',
+  title: 'Kasia\'s workshop :)',
   description: 'Technologies of Software Development',
 
   theme: defaultTheme({
