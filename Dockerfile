@@ -1,6 +1,8 @@
 # Choose a base image
 FROM node:18
 
+RUN apt-get update && apt-get install -y tree
+
 # Create a working directory in the container
 WORKDIR /app
 
